@@ -12,7 +12,7 @@ Enables the Discord Experimental tab.
 
 #### How to use
 
-1. Open the Discord Dev tools (str+shift+i). This only works in non-stable builds or if you put ```json "DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true``` in your settings.json
+1. Open the Discord Dev tools (str+shift+i). This only works in non-stable builds or if you put ``` "DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true``` in your settings.json
 2. Navigate to the Console Tab
 3. Paste the ```content of discord-experimental-tab.js``` into the Console and press Enter
 
